@@ -1,0 +1,401 @@
+id,first_name,last_name,email,gender,part_time_job,absence_days,extracurricular_activities,weekly_self_study_hours,career_aspiration,math_score,history_score,physics_score,chemistry_score,biology_score,english_score,geography_score
+1861,Kyle,Rodriguez,kyle.rodriguez.1861@gslingacademy.com,male,False,0,False,19,Banker,97,95,91,97,96,90,67
+354,Samuel,Jackson,samuel.jackson.354@gslingacademy.com,male,False,4,False,1,Game Developer,85,64,90,94,68,97,61
+1334,Julie,Gomez,julie.gomez.1334@gslingacademy.com,female,False,2,False,16,Teacher,80,62,66,88,75,98,68
+906,Robert,Torres,robert.torres.906@gslingacademy.com,male,False,7,False,5,Real Estate Developer,57,74,98,93,63,70,67
+1290,Aaron,Ortiz,aaron.ortiz.1290@gslingacademy.com,male,False,3,False,2,Game Developer,86,93,91,64,69,71,64
+1274,Sharon,Stephenson,sharon.stephenson.1274@gslingacademy.com,female,False,1,False,5,Game Developer,99,72,90,83,90,99,97
+939,Harry,Hunter,harry.hunter.939@gslingacademy.com,male,False,3,True,15,Accountant,98,72,87,74,100,84,85
+1732,Eric,Erickson,eric.erickson.1732@gslingacademy.com,male,False,4,False,32,Lawyer,87,82,74,77,100,93,65
+66,Kristy,Weber,kristy.weber.66@gslingacademy.com,female,True,6,False,2,Business Owner,90,54,77,74,76,96,88
+1324,Jeffrey,Andrews,jeffrey.andrews.1324@gslingacademy.com,male,False,3,False,4,Game Developer,92,63,100,97,91,87,68
+57,Melissa,Lee,melissa.lee.57@gslingacademy.com,female,False,3,False,21,Unknown,95,72,79,86,87,81,62
+1293,Susan,Perez,susan.perez.1293@gslingacademy.com,female,False,5,False,5,Artist,83,94,77,97,78,60,85
+1119,Brittany,Spencer,brittany.spencer.1119@gslingacademy.com,female,False,6,False,5,Unknown,88,99,71,85,82,94,90
+585,Gary,Rivera,gary.rivera.585@gslingacademy.com,male,False,6,False,34,Lawyer,89,89,85,74,78,87,82
+375,Kristen,Adams,kristen.adams.375@gslingacademy.com,female,False,5,True,21,Unknown,77,72,81,63,69,73,80
+276,Patrick,Vazquez,patrick.vazquez.276@gslingacademy.com,male,False,1,False,15,Software Engineer,100,92,90,66,73,68,70
+747,Sarah,King,sarah.king.747@gslingacademy.com,female,True,7,False,1,Business Owner,45,68,99,91,88,63,61
+129,Amanda,Williamson,amanda.williamson.129@gslingacademy.com,female,False,4,False,26,Unknown,82,70,80,70,96,69,86
+1647,Natalie,Williams,natalie.williams.1647@gslingacademy.com,female,False,4,True,29,Software Engineer,87,80,97,98,91,64,97
+1853,Shane,Payne,shane.payne.1853@gslingacademy.com,male,False,1,False,22,Software Engineer,85,60,85,76,90,75,93
+675,Isaac,Tucker,isaac.tucker.675@gslingacademy.com,male,False,5,True,22,Software Engineer,89,93,95,88,72,76,71
+1665,Kendra,Perez,kendra.perez.1665@gslingacademy.com,female,True,6,False,18,Banker,77,90,74,65,100,76,80
+1982,Shane,Parker,shane.parker.1982@gslingacademy.com,male,False,5,False,21,Software Engineer,98,72,64,68,76,84,72
+1084,Kyle,Garcia,kyle.garcia.1084@gslingacademy.com,male,False,9,False,34,Lawyer,91,88,79,60,82,96,83
+1923,Andrea,Richards,andrea.richards.1923@gslingacademy.com,female,False,4,False,27,Software Engineer,90,82,98,61,92,67,80
+100,Kimberly,Ward,kimberly.ward.100@gslingacademy.com,female,False,0,False,5,Game Developer,85,89,94,69,99,93,98
+1180,Melissa,Deleon,melissa.deleon.1180@gslingacademy.com,female,False,3,False,38,Doctor,96,92,93,91,88,90,88
+965,Laura,Walker,laura.walker.965@gslingacademy.com,female,False,0,False,5,Unknown,96,67,74,90,75,95,83
+793,Kelly,Rivera,kelly.rivera.793@gslingacademy.com,female,False,2,False,22,Unknown,88,86,82,89,81,61,83
+30,Carol,Hill,carol.hill.30@gslingacademy.com,female,False,3,False,19,Accountant,82,100,61,97,30,74,73
+629,Sean,Wagner,sean.wagner.629@gslingacademy.com,male,False,6,True,14,Unknown,65,89,79,95,71,61,62
+945,Jennifer,Torres,jennifer.torres.945@gslingacademy.com,female,False,6,False,14,Software Engineer,91,61,100,88,73,84,100
+573,Carlos,Ramirez,carlos.ramirez.573@gslingacademy.com,male,False,1,False,30,Banker,75,92,72,88,92,77,84
+908,Jessica,Wong,jessica.wong.908@gslingacademy.com,female,False,7,False,1,Business Owner,84,83,71,98,93,95,99
+1081,Jaime,Morrison,jaime.morrison.1081@gslingacademy.com,male,False,2,False,16,Software Engineer,88,71,82,98,91,73,74
+451,Lori,Ryan,lori.ryan.451@gslingacademy.com,female,False,3,False,13,Unknown,89,87,63,83,64,85,72
+1610,Rhonda,Munoz,rhonda.munoz.1610@gslingacademy.com,female,False,0,False,5,Artist,73,100,78,77,71,61,66
+1291,Todd,Stephens,todd.stephens.1291@gslingacademy.com,male,False,1,False,13,Government Officer,62,91,92,61,85,98,72
+1079,Robert,Barnett,robert.barnett.1079@gslingacademy.com,male,False,2,False,28,Software Engineer,99,84,75,81,91,87,63
+255,Nathan,Riley,nathan.riley.255@gslingacademy.com,male,False,3,False,35,Unknown,85,85,92,86,99,86,93
+125,Jennifer,Miller,jennifer.miller.125@gslingacademy.com,female,False,2,False,9,Unknown,69,62,82,89,81,72,71
+1928,Michelle,Lopez,michelle.lopez.1928@gslingacademy.com,female,False,2,False,32,Lawyer,72,95,71,74,84,97,66
+252,Debra,Valdez,debra.valdez.252@gslingacademy.com,female,False,1,False,28,Designer,69,63,88,73,83,74,94
+586,Luke,Moore,luke.moore.586@gslingacademy.com,male,False,3,False,26,Software Engineer,86,63,78,78,80,67,97
+1569,Brian,Gibson,brian.gibson.1569@gslingacademy.com,male,False,5,False,25,Writer,73,94,74,72,80,98,100
+825,Ryan,Soto,ryan.soto.825@gslingacademy.com,male,False,7,False,14,Construction Engineer,84,100,99,94,84,86,63
+508,Eric,Snyder,eric.snyder.508@gslingacademy.com,male,False,1,True,27,Software Engineer,90,91,62,82,76,70,64
+890,Rebecca,Molina,rebecca.molina.890@gslingacademy.com,female,False,3,False,15,Software Engineer,97,81,65,70,62,96,75
+71,Jill,Perez,jill.perez.71@gslingacademy.com,female,False,1,False,15,Designer,89,66,93,81,86,88,70
+1609,Tina,Smith,tina.smith.1609@gslingacademy.com,female,False,3,False,24,Software Engineer,91,69,82,87,100,93,100
+1533,Craig,Carter,craig.carter.1533@gslingacademy.com,male,True,4,True,3,Business Owner,71,66,52,99,87,89,70
+248,Robert,Hawkins,robert.hawkins.248@gslingacademy.com,male,False,3,False,25,Stock Investor,92,81,68,96,99,92,79
+1451,Thomas,Odom,thomas.odom.1451@gslingacademy.com,male,False,3,False,4,Artist,75,69,97,98,60,60,85
+213,Trevor,Cruz,trevor.cruz.213@gslingacademy.com,male,True,1,False,4,Business Owner,52,58,60,97,93,89,68
+910,Megan,Alexander,megan.alexander.910@gslingacademy.com,female,False,3,False,27,Software Engineer,90,91,88,95,98,99,71
+1742,Caitlin,Moody,caitlin.moody.1742@gslingacademy.com,female,True,2,False,28,Doctor,81,75,94,93,87,77,67
+1245,Matthew,Green,matthew.green.1245@gslingacademy.com,male,False,3,True,26,Accountant,87,70,65,64,30,72,68
+1697,Jennifer,Lewis,jennifer.lewis.1697@gslingacademy.com,female,True,8,False,2,Business Owner,94,62,100,87,91,89,93
+1183,Victor,Bright,victor.bright.1183@gslingacademy.com,male,False,0,False,8,Real Estate Developer,68,95,62,65,70,65,64
+362,Jeffrey,Booker,jeffrey.booker.362@gslingacademy.com,male,False,0,False,30,Software Engineer,100,86,81,100,66,98,97
+1474,Mark,Robinson,mark.robinson.1474@gslingacademy.com,male,False,1,False,11,Construction Engineer,89,70,92,100,100,95,65
+679,Jennifer,Williams,jennifer.williams.679@gslingacademy.com,female,False,6,False,3,Business Owner,100,91,53,78,55,91,74
+1622,Victoria,Perez,victoria.perez.1622@gslingacademy.com,female,False,7,False,1,Business Owner,88,96,74,90,82,70,83
+1090,William,Fleming,william.fleming.1090@gslingacademy.com,male,False,1,False,28,Lawyer,72,93,68,62,83,98,67
+1988,Holly,Erickson,holly.erickson.1988@gslingacademy.com,female,False,6,False,8,Designer,97,91,61,75,95,61,89
+1848,Peter,Santos,peter.santos.1848@gslingacademy.com,male,False,2,True,11,Banker,81,85,91,94,97,93,65
+988,Corey,Taylor,corey.taylor.988@gslingacademy.com,male,True,8,False,5,Business Owner,90,97,54,59,82,76,72
+1513,Laura,Smith,laura.smith.1513@gslingacademy.com,female,False,0,False,12,Teacher,99,75,71,90,92,78,69
+112,Erin,Jones,erin.jones.112@gslingacademy.com,female,True,9,False,2,Business Owner,82,54,85,57,50,54,76
+1488,Thomas,Montoya,thomas.montoya.1488@gslingacademy.com,male,False,6,False,1,Business Owner,96,92,64,54,87,60,88
+1454,Peter,Peck,peter.peck.1454@gslingacademy.com,male,False,2,False,24,Lawyer,96,88,68,95,67,95,75
+384,James,Castro,james.castro.384@gslingacademy.com,male,False,5,False,3,Unknown,81,61,75,65,90,92,80
+1396,Bradley,Cook,bradley.cook.1396@gslingacademy.com,male,False,3,False,34,Construction Engineer,99,93,98,74,87,88,78
+1055,Rebecca,Carpenter,rebecca.carpenter.1055@gslingacademy.com,female,False,1,False,28,Unknown,88,93,92,70,90,94,85
+756,Nicole,Perry,nicole.perry.756@gslingacademy.com,female,False,2,False,13,Banker,82,67,94,88,86,89,98
+325,Anthony,Oconnor,anthony.oconnor.325@gslingacademy.com,male,False,3,False,4,Unknown,75,69,85,73,79,93,74
+1624,Christopher,Meyer,christopher.meyer.1624@gslingacademy.com,male,False,4,False,50,Doctor,99,89,87,90,87,90,95
+788,Tyler,Calderon,tyler.calderon.788@gslingacademy.com,male,False,7,False,1,Business Owner,72,58,73,57,67,88,70
+369,Ashley,Mendez,ashley.mendez.369@gslingacademy.com,female,False,7,False,2,Business Owner,62,53,78,77,59,95,80
+1820,Jeremy,Coleman,jeremy.coleman.1820@gslingacademy.com,male,False,3,False,25,Doctor,99,70,89,86,92,65,64
+70,Raymond,Shea,raymond.shea.70@gslingacademy.com,male,False,10,True,22,Banker,99,81,96,69,91,87,83
+858,Sarah,Nielsen,sarah.nielsen.858@gslingacademy.com,female,True,4,False,5,Business Owner,54,93,96,59,84,79,93
+1484,Stephanie,Pineda,stephanie.pineda.1484@gslingacademy.com,female,True,5,True,1,Business Owner,67,61,61,82,69,87,97
+1556,Carlos,Long,carlos.long.1556@gslingacademy.com,male,False,10,True,4,Business Owner,86,59,81,55,77,69,87
+1692,Barry,Taylor,barry.taylor.1692@gslingacademy.com,male,False,8,False,0,Business Owner,77,71,68,53,70,72,69
+1475,Joan,Estrada,joan.estrada.1475@gslingacademy.com,female,False,3,False,15,Teacher,77,73,67,67,88,89,99
+1799,Sara,Johnson,sara.johnson.1799@gslingacademy.com,female,False,2,False,20,Accountant,99,70,97,93,87,90,88
+479,Douglas,Watson,douglas.watson.479@gslingacademy.com,male,False,5,False,15,Unknown,63,84,60,85,91,83,84
+282,Jorge,Roth,jorge.roth.282@gslingacademy.com,male,False,5,False,34,Scientist,82,95,96,100,89,64,91
+1648,Anthony,Arnold,anthony.arnold.1648@gslingacademy.com,male,False,2,False,31,Lawyer,96,83,97,100,85,92,69
+1557,Keith,Hunt,keith.hunt.1557@gslingacademy.com,male,False,4,False,17,Software Engineer,91,92,95,90,73,75,95
+1730,Carla,Lopez,carla.lopez.1730@gslingacademy.com,female,True,7,False,3,Business Owner,73,52,89,85,74,66,79
+211,Tim,Turner,tim.turner.211@gslingacademy.com,male,False,0,False,41,Doctor,96,88,90,100,94,87,96
+298,Tracy,Johnson,tracy.johnson.298@gslingacademy.com,male,False,2,False,2,Game Developer,97,74,97,60,65,90,97
+1885,Richard,Davis,richard.davis.1885@gslingacademy.com,male,False,3,False,9,Unknown,66,61,97,61,60,61,98
+1834,Tina,Harrison,tina.harrison.1834@gslingacademy.com,female,False,1,False,35,Designer,94,88,87,97,93,86,94
+652,Rachel,Jones,rachel.jones.652@gslingacademy.com,female,False,1,False,26,Accountant,98,77,94,87,44,85,61
+1234,Jaime,Houston,jaime.houston.1234@gslingacademy.com,female,False,1,False,17,Teacher,95,88,85,66,70,72,97
+1503,Sarah,Snow,sarah.snow.1503@gslingacademy.com,female,False,9,False,21,Banker,100,73,70,71,73,96,67
+1932,Alicia,Rodriguez,alicia.rodriguez.1932@gslingacademy.com,female,False,5,False,8,Teacher,61,100,85,99,65,79,86
+917,Lee,Campbell,lee.campbell.917@gslingacademy.com,male,False,9,False,31,Scientist,92,74,95,97,87,78,68
+994,Oscar,Gonzalez,oscar.gonzalez.994@gslingacademy.com,male,False,1,True,47,Doctor,94,90,95,85,98,91,96
+430,David,Harris,david.harris.430@gslingacademy.com,male,False,5,False,33,Scientist,94,99,83,94,93,95,93
+1371,Richard,Ryan,richard.ryan.1371@gslingacademy.com,male,False,1,False,31,Software Engineer,88,68,81,68,73,61,93
+240,David,Barnett,david.barnett.240@gslingacademy.com,male,False,6,False,20,Software Engineer,100,72,99,64,70,93,67
+880,Lori,Jacobson,lori.jacobson.880@gslingacademy.com,female,False,6,False,24,Accountant,87,87,86,91,90,75,79
+621,Gina,Solomon,gina.solomon.621@gslingacademy.com,female,False,6,False,1,Business Owner,89,55,89,67,55,64,70
+257,Tracey,Turner,tracey.turner.257@gslingacademy.com,female,False,7,True,14,Accountant,82,95,92,62,73,75,93
+612,Kevin,Hess,kevin.hess.612@gslingacademy.com,male,False,0,False,4,Real Estate Developer,81,84,76,88,84,89,87
+545,Christina,Shields,christina.shields.545@gslingacademy.com,female,True,3,False,47,Doctor,94,87,98,90,92,88,100
+772,Diane,Spears,diane.spears.772@gslingacademy.com,female,False,0,True,8,Unknown,78,81,71,91,79,79,75
+1420,Mary,Arnold,mary.arnold.1420@gslingacademy.com,female,False,1,False,35,Designer,99,96,99,91,94,92,99
+1042,Natasha,Butler,natasha.butler.1042@gslingacademy.com,female,False,5,False,28,Lawyer,85,99,64,78,63,95,91
+1790,Debra,Evans,debra.evans.1790@gslingacademy.com,female,False,5,True,21,Unknown,79,86,84,84,63,82,94
+760,Mary,Haynes,mary.haynes.760@gslingacademy.com,female,False,0,True,11,Government Officer,89,75,64,81,66,82,92
+383,Melissa,Williamson,melissa.williamson.383@gslingacademy.com,female,True,1,False,22,Software Engineer,91,79,89,74,79,74,61
+1104,John,Klein,john.klein.1104@gslingacademy.com,male,False,10,False,5,Business Owner,82,58,58,91,91,55,98
+974,Suzanne,Morrow,suzanne.morrow.974@gslingacademy.com,female,True,9,True,4,Business Owner,67,56,77,93,95,50,74
+353,Ryan,Hull,ryan.hull.353@gslingacademy.com,male,False,1,True,14,Unknown,95,98,98,83,77,93,83
+1606,Maria,Perkins,maria.perkins.1606@gslingacademy.com,female,False,5,False,35,Lawyer,86,86,100,86,94,87,85
+1826,Michael,York,michael.york.1826@gslingacademy.com,male,False,2,False,27,Lawyer,97,81,71,77,90,86,80
+1037,Samantha,Stewart,samantha.stewart.1037@gslingacademy.com,female,False,6,False,4,Government Officer,78,78,100,87,98,80,98
+1108,Thomas,George,thomas.george.1108@gslingacademy.com,male,False,0,False,12,Banker,83,81,96,96,62,82,77
+495,Matthew,Chavez,matthew.chavez.495@gslingacademy.com,male,False,3,False,31,Writer,88,98,65,68,99,94,79
+394,Marc,Brock,marc.brock.394@gslingacademy.com,male,True,7,False,0,Business Owner,100,65,67,61,76,58,84
+1547,Gabriella,Pierce,gabriella.pierce.1547@gslingacademy.com,female,False,6,False,15,Accountant,88,99,64,79,52,75,92
+465,Brad,Lee,brad.lee.465@gslingacademy.com,male,True,2,False,4,Business Owner,86,90,88,73,50,93,71
+887,Nicole,Mcdonald,nicole.mcdonald.887@gslingacademy.com,female,False,7,False,11,Unknown,60,92,82,65,82,91,67
+1194,Anthony,Clark,anthony.clark.1194@gslingacademy.com,male,False,3,False,24,Banker,80,66,67,72,78,99,67
+367,Tracy,Harris,tracy.harris.367@gslingacademy.com,male,False,2,False,11,Designer,70,73,70,67,96,86,89
+1894,Erica,Valdez,erica.valdez.1894@gslingacademy.com,female,False,6,False,12,Designer,83,79,87,66,78,93,82
+1874,David,Castro,david.castro.1874@gslingacademy.com,male,False,1,True,41,Doctor,89,95,97,99,87,90,91
+745,Joshua,Miller,joshua.miller.745@gslingacademy.com,male,False,3,False,35,Software Engineer,85,100,90,93,94,97,98
+530,Meredith,Clark,meredith.clark.530@gslingacademy.com,female,False,3,True,28,Software Engineer,89,77,69,72,63,84,99
+803,Tiffany,Small,tiffany.small.803@gslingacademy.com,female,True,3,False,20,Accountant,76,75,60,77,71,70,88
+1224,Ronald,Brewer,ronald.brewer.1224@gslingacademy.com,male,False,2,True,28,Lawyer,100,94,76,60,95,90,66
+1979,Eric,Adkins,eric.adkins.1979@gslingacademy.com,male,False,7,False,5,Business Owner,72,69,91,69,53,73,95
+1906,Carla,Jackson,carla.jackson.1906@gslingacademy.com,female,False,3,False,10,Real Estate Developer,83,91,82,93,71,80,85
+1700,Nicole,Weeks,nicole.weeks.1700@gslingacademy.com,female,False,1,False,7,Designer,83,81,70,90,73,89,87
+1545,Justin,Morgan,justin.morgan.1545@gslingacademy.com,male,True,9,False,4,Business Owner,77,59,60,98,74,76,60
+1314,Timothy,Bailey,timothy.bailey.1314@gslingacademy.com,male,False,1,False,22,Banker,87,90,80,88,71,95,81
+307,Lauren,Miller,lauren.miller.307@gslingacademy.com,female,False,0,False,9,Teacher,66,70,88,70,62,70,75
+1667,Cody,Tyler,cody.tyler.1667@gslingacademy.com,male,False,5,False,1,Business Owner,66,83,79,65,57,61,86
+863,Anthony,Silva,anthony.silva.863@gslingacademy.com,male,False,3,False,0,Real Estate Developer,75,66,91,73,100,94,67
+1567,Meghan,Lewis,meghan.lewis.1567@gslingacademy.com,female,False,1,False,17,Banker,88,100,71,85,72,91,81
+531,Christina,Garrett,christina.garrett.531@gslingacademy.com,female,False,3,False,30,Scientist,77,76,90,95,94,99,94
+655,Pamela,Henry,pamela.henry.655@gslingacademy.com,female,False,4,False,39,Doctor,97,95,94,90,86,85,95
+1260,Mark,Delgado,mark.delgado.1260@gslingacademy.com,male,False,1,False,18,Accountant,80,71,89,81,75,81,63
+234,Keith,Summers,keith.summers.234@gslingacademy.com,male,False,5,False,16,Designer,98,88,92,84,90,90,71
+121,Jordan,Bennett,jordan.bennett.121@gslingacademy.com,female,True,0,False,13,Teacher,66,90,83,80,76,90,91
+1698,Mark,Gardner,mark.gardner.1698@gslingacademy.com,male,False,2,False,35,Unknown,98,92,91,89,95,92,90
+950,Bradley,Avery,bradley.avery.950@gslingacademy.com,male,False,3,False,30,Lawyer,80,81,75,72,71,84,87
+618,Travis,Ross,travis.ross.618@gslingacademy.com,male,False,3,False,35,Software Engineer,93,85,89,93,90,91,88
+1179,Scott,Tate,scott.tate.1179@gslingacademy.com,male,False,3,False,7,Unknown,67,60,99,60,82,81,63
+308,Jessica,Diaz,jessica.diaz.308@gslingacademy.com,female,False,5,False,43,Doctor,90,96,100,87,100,90,89
+136,Joanne,Campos,joanne.campos.136@gslingacademy.com,female,False,2,False,6,Designer,62,83,84,75,83,85,86
+555,Chelsea,Clark,chelsea.clark.555@gslingacademy.com,female,False,1,False,3,Stock Investor,100,92,95,90,67,81,66
+1674,Jennifer,Chan,jennifer.chan.1674@gslingacademy.com,female,False,3,False,9,Government Officer,82,84,93,89,88,76,98
+584,Lindsay,Brady,lindsay.brady.584@gslingacademy.com,female,False,3,False,16,Unknown,99,70,74,65,99,74,62
+1641,Stephanie,Green,stephanie.green.1641@gslingacademy.com,female,False,2,False,29,Software Engineer,89,90,72,98,96,84,87
+671,Lauren,Morrow,lauren.morrow.671@gslingacademy.com,female,False,3,False,16,Unknown,72,79,95,68,75,70,88
+835,Alexander,Fowler,alexander.fowler.835@gslingacademy.com,male,False,2,False,25,Unknown,82,84,93,70,99,66,80
+110,Phillip,Allen,phillip.allen.110@gslingacademy.com,male,False,5,True,13,Accountant,78,69,82,60,64,77,82
+1165,Rebecca,Roman,rebecca.roman.1165@gslingacademy.com,female,False,1,False,2,Artist,62,100,91,75,99,76,78
+1960,Peggy,Hoover,peggy.hoover.1960@gslingacademy.com,female,True,5,False,11,Teacher,75,100,100,82,63,84,82
+1465,Gregory,Ryan,gregory.ryan.1465@gslingacademy.com,male,False,1,False,29,Stock Investor,80,96,79,95,74,95,61
+1729,Kimberly,Brooks,kimberly.brooks.1729@gslingacademy.com,female,False,8,True,19,Software Engineer,94,83,72,63,65,63,74
+1243,Christopher,Porter,christopher.porter.1243@gslingacademy.com,male,True,6,True,2,Business Owner,94,95,75,73,51,89,77
+212,Joe,Strickland,joe.strickland.212@gslingacademy.com,male,False,4,False,32,Construction Engineer,91,73,86,73,84,60,71
+1768,Jacob,Ross,jacob.ross.1768@gslingacademy.com,male,False,4,False,17,Software Engineer,86,70,94,96,74,67,60
+1121,Robin,Perez,robin.perez.1121@gslingacademy.com,female,False,3,False,28,Doctor,89,96,85,91,100,91,91
+680,Jeffrey,Price,jeffrey.price.680@gslingacademy.com,male,False,2,False,4,Designer,80,65,96,73,84,92,73
+1951,Vicki,Jackson,vicki.jackson.1951@gslingacademy.com,female,False,2,True,33,Lawyer,89,89,69,87,69,97,79
+1839,Heather,Gutierrez,heather.gutierrez.1839@gslingacademy.com,female,False,3,False,19,Unknown,93,73,67,100,63,92,86
+412,Claudia,Munoz,claudia.munoz.412@gslingacademy.com,female,False,5,False,14,Software Engineer,92,66,96,71,87,89,61
+1325,Christina,Martinez,christina.martinez.1325@gslingacademy.com,female,False,10,False,33,Lawyer,94,89,96,98,61,95,67
+783,Jimmy,Warren,jimmy.warren.783@gslingacademy.com,male,False,3,False,28,Software Engineer,91,61,61,85,64,76,88
+1346,Patricia,Rhodes,patricia.rhodes.1346@gslingacademy.com,female,False,5,False,24,Doctor,99,82,81,98,86,85,85
+875,Cody,Smith,cody.smith.875@gslingacademy.com,male,False,10,False,15,Accountant,76,86,68,83,82,67,69
+1653,Beverly,Chavez,beverly.chavez.1653@gslingacademy.com,female,True,9,True,2,Business Owner,99,65,100,93,91,60,83
+1279,Danielle,Tran,danielle.tran.1279@gslingacademy.com,female,True,1,True,26,Banker,79,100,79,60,100,84,93
+786,Robert,Campbell,robert.campbell.786@gslingacademy.com,male,False,7,False,31,Banker,81,92,68,93,69,78,89
+1819,John,Fuller,john.fuller.1819@gslingacademy.com,male,False,3,False,14,Government Officer,93,99,72,79,83,87,73
+1199,Alan,Mcgrath,alan.mcgrath.1199@gslingacademy.com,male,False,2,False,20,Accountant,94,82,91,94,100,99,69
+808,Anthony,Gomez,anthony.gomez.808@gslingacademy.com,male,False,2,False,23,Unknown,99,98,70,73,63,62,88
+713,Sharon,Allen,sharon.allen.713@gslingacademy.com,female,False,3,False,17,Teacher,80,95,98,95,96,97,85
+1991,Anthony,Moore,anthony.moore.1991@gslingacademy.com,male,False,0,False,17,Software Engineer,98,63,64,82,64,96,79
+1660,Rachael,Perry,rachael.perry.1660@gslingacademy.com,female,False,2,False,21,Banker,75,67,64,80,79,77,80
+1191,Michelle,Mendoza,michelle.mendoza.1191@gslingacademy.com,female,False,1,False,1,Real Estate Developer,50,60,70,75,100,62,100
+1226,Jill,Anderson,jill.anderson.1226@gslingacademy.com,female,False,1,True,28,Banker,94,66,68,94,62,76,77
+603,Susan,Lynch,susan.lynch.603@gslingacademy.com,female,False,0,False,5,Artist,87,91,93,92,97,95,99
+271,Jacob,Henderson,jacob.henderson.271@gslingacademy.com,male,False,1,False,3,Business Owner,53,71,98,95,94,71,77
+1385,Thomas,Ball,thomas.ball.1385@gslingacademy.com,male,False,2,False,29,Software Engineer,100,79,77,61,79,70,69
+232,Lisa,Gardner,lisa.gardner.232@gslingacademy.com,female,False,3,False,17,Software Engineer,97,88,87,61,86,92,94
+50,Sonia,Noble,sonia.noble.50@gslingacademy.com,female,False,0,False,14,Accountant,100,89,90,93,30,83,74
+463,Taylor,Nelson,taylor.nelson.463@gslingacademy.com,female,False,3,True,32,Lawyer,79,81,63,79,96,96,89
+1106,Jose,Wood,jose.wood.1106@gslingacademy.com,male,False,1,False,32,Scientist,83,63,93,94,93,90,78
+856,Kevin,York,kevin.york.856@gslingacademy.com,male,True,7,False,1,Business Owner,47,78,75,62,61,55,93
+694,Lisa,Murphy,lisa.murphy.694@gslingacademy.com,female,False,1,False,14,Teacher,93,79,82,67,64,90,65
+1552,Robert,Hart,robert.hart.1552@gslingacademy.com,male,False,5,False,27,Designer,93,97,77,70,81,83,87
+1873,Andrew,Reed,andrew.reed.1873@gslingacademy.com,male,False,3,False,35,Banker,87,93,88,97,91,88,88
+527,Robert,Heath,robert.heath.527@gslingacademy.com,male,False,2,False,25,Unknown,72,91,68,79,98,71,89
+174,John,Bennett,john.bennett.174@gslingacademy.com,male,False,1,False,33,Lawyer,100,96,75,68,77,97,81
+721,Maria,Hall,maria.hall.721@gslingacademy.com,female,False,9,False,5,Business Owner,85,64,99,93,89,61,67
+415,Joel,Morris,joel.morris.415@gslingacademy.com,male,True,6,False,4,Business Owner,44,76,56,71,66,54,91
+238,Christopher,Cook,christopher.cook.238@gslingacademy.com,male,False,0,False,24,Construction Engineer,96,80,86,94,63,72,75
+1473,Christine,Smith,christine.smith.1473@gslingacademy.com,female,False,4,True,4,Artist,79,100,75,85,100,81,64
+1336,Katie,Clark,katie.clark.1336@gslingacademy.com,female,True,3,False,28,Software Engineer,91,98,60,88,63,78,95
+1064,James,Acosta,james.acosta.1064@gslingacademy.com,male,True,1,False,35,Scientist,85,90,98,92,89,88,95
+24,Sean,Griffin,sean.griffin.24@gslingacademy.com,male,False,9,False,1,Business Owner,50,76,81,55,56,80,79
+1767,Nicole,Lee,nicole.lee.1767@gslingacademy.com,female,False,7,True,0,Business Owner,76,96,89,83,78,54,61
+64,Veronica,Cameron,veronica.cameron.64@gslingacademy.com,female,False,1,False,34,Banker,83,97,65,88,67,95,69
+290,Lisa,White,lisa.white.290@gslingacademy.com,female,False,6,False,16,Software Engineer,92,70,60,94,87,90,86
+189,Steven,Walker,steven.walker.189@gslingacademy.com,male,False,5,False,26,Unknown,70,77,91,96,100,89,67
+702,Barbara,Petersen,barbara.petersen.702@gslingacademy.com,female,False,2,True,16,Writer,71,100,99,95,91,96,96
+1815,Joshua,Ayala,joshua.ayala.1815@gslingacademy.com,male,False,5,True,18,Unknown,94,97,69,81,100,68,68
+1138,Amber,Levy,amber.levy.1138@gslingacademy.com,female,True,6,False,2,Business Owner,57,71,51,59,84,74,68
+355,Joshua,Smith,joshua.smith.355@gslingacademy.com,male,False,5,False,10,Construction Engineer,86,91,96,60,91,73,88
+417,Melissa,Brown,melissa.brown.417@gslingacademy.com,female,False,4,False,30,Accountant,95,78,93,85,48,68,75
+1246,Jesse,Johnson,jesse.johnson.1246@gslingacademy.com,male,False,7,False,26,Stock Investor,82,82,87,92,64,70,72
+931,Timothy,Booth,timothy.booth.931@gslingacademy.com,male,False,2,False,34,Unknown,93,70,74,78,94,75,96
+197,Mark,Myers,mark.myers.197@gslingacademy.com,male,False,4,False,21,Software Engineer,95,69,62,87,84,83,64
+580,Christopher,Buchanan,christopher.buchanan.580@gslingacademy.com,male,True,5,False,3,Business Owner,56,59,89,68,79,83,68
+1135,Rebecca,Clark,rebecca.clark.1135@gslingacademy.com,female,False,3,False,28,Lawyer,87,99,70,81,62,90,91
+1814,Drew,Mccann,drew.mccann.1814@gslingacademy.com,male,False,1,False,35,Doctor,95,89,92,87,95,86,93
+1935,Sherri,Cruz,sherri.cruz.1935@gslingacademy.com,female,False,1,True,6,Government Officer,66,94,67,79,64,89,75
+434,Christian,Wilkins,christian.wilkins.434@gslingacademy.com,male,False,6,False,10,Real Estate Developer,63,87,71,68,66,67,99
+101,Rhonda,Jones,rhonda.jones.101@gslingacademy.com,female,False,2,False,4,Artist,87,73,98,91,79,60,77
+1655,Kevin,Morgan,kevin.morgan.1655@gslingacademy.com,male,False,1,False,11,Government Officer,86,87,64,74,60,89,84
+395,Timothy,Perez,timothy.perez.395@gslingacademy.com,male,False,9,False,2,Business Owner,79,86,97,60,66,74,96
+1939,Michael,Adams,michael.adams.1939@gslingacademy.com,male,False,2,False,14,Software Engineer,90,92,95,88,88,85,92
+221,Charles,Parker,charles.parker.221@gslingacademy.com,male,False,3,False,2,Real Estate Developer,99,76,94,88,75,66,84
+1676,Tara,Haynes,tara.haynes.1676@gslingacademy.com,female,False,3,False,31,Software Engineer,95,98,76,61,87,72,100
+1498,David,Walters,david.walters.1498@gslingacademy.com,male,False,7,False,23,Writer,70,91,81,61,64,93,96
+1785,Kristen,Werner,kristen.werner.1785@gslingacademy.com,female,False,3,False,23,Accountant,92,75,100,78,32,84,69
+345,Melissa,Le,melissa.le.345@gslingacademy.com,female,False,1,False,18,Teacher,92,69,69,60,90,88,95
+1028,Latoya,Mullins,latoya.mullins.1028@gslingacademy.com,female,True,7,False,5,Business Owner,77,60,83,65,81,80,88
+889,Lawrence,Fields,lawrence.fields.889@gslingacademy.com,male,True,9,False,1,Business Owner,61,73,76,51,76,50,77
+1351,Natalie,Fitzgerald,natalie.fitzgerald.1351@gslingacademy.com,female,False,3,True,14,Teacher,60,61,71,60,69,91,84
+553,Alexander,Daniel,alexander.daniel.553@gslingacademy.com,male,True,1,False,7,Government Officer,69,92,84,98,98,83,87
+744,William,Lester,william.lester.744@gslingacademy.com,male,True,1,False,5,Business Owner,97,79,96,94,59,83,64
+1542,Stephanie,Yu,stephanie.yu.1542@gslingacademy.com,female,False,4,False,2,Unknown,71,68,77,73,68,73,64
+539,Mark,Davis,mark.davis.539@gslingacademy.com,male,False,2,False,32,Unknown,87,83,74,61,81,72,98
+907,Alicia,Beltran,alicia.beltran.907@gslingacademy.com,female,False,6,False,4,Business Owner,84,54,52,52,65,54,69
+1395,Joseph,Erickson,joseph.erickson.1395@gslingacademy.com,male,False,4,True,20,Software Engineer,89,88,86,77,87,88,78
+116,Robert,Hill,robert.hill.116@gslingacademy.com,male,False,2,False,24,Unknown,96,66,69,65,72,84,77
+830,Christopher,Jenkins,christopher.jenkins.830@gslingacademy.com,male,False,5,False,3,Designer,76,77,99,87,95,94,85
+1938,Carol,Ramos,carol.ramos.1938@gslingacademy.com,female,False,6,False,1,Artist,96,66,76,71,94,72,86
+809,Molly,Jackson,molly.jackson.809@gslingacademy.com,female,False,10,False,0,Business Owner,66,97,72,98,86,86,63
+1311,Lori,Johnson,lori.johnson.1311@gslingacademy.com,female,False,6,False,15,Software Engineer,98,67,74,94,94,96,85
+1005,Maureen,Jones,maureen.jones.1005@gslingacademy.com,female,False,9,False,3,Business Owner,91,95,88,89,58,81,69
+306,Sabrina,Hall,sabrina.hall.306@gslingacademy.com,female,False,3,False,34,Banker,77,60,61,91,62,78,91
+1101,Sabrina,Zavala,sabrina.zavala.1101@gslingacademy.com,female,False,1,False,31,Scientist,92,78,96,91,82,98,100
+480,Manuel,Barrett,manuel.barrett.480@gslingacademy.com,male,False,3,True,10,Unknown,100,98,71,100,71,92,63
+1424,Jordan,Rocha,jordan.rocha.1424@gslingacademy.com,male,False,1,False,30,Software Engineer,89,93,71,84,63,61,76
+1076,David,Mays,david.mays.1076@gslingacademy.com,male,False,2,True,7,Real Estate Developer,71,96,83,76,60,87,74
+571,Pamela,Horne,pamela.horne.571@gslingacademy.com,female,False,7,True,1,Game Developer,83,88,90,100,71,98,96
+619,Kenneth,Buchanan,kenneth.buchanan.619@gslingacademy.com,male,False,2,False,24,Doctor,95,85,90,94,91,84,85
+1898,Nicole,Smith,nicole.smith.1898@gslingacademy.com,female,True,1,False,14,Accountant,100,68,85,85,62,63,92
+1266,John,Stevenson,john.stevenson.1266@gslingacademy.com,male,False,5,False,27,Construction Engineer,98,100,100,81,73,75,99
+79,Chelsea,Craig,chelsea.craig.79@gslingacademy.com,female,False,7,False,34,Unknown,88,94,80,63,68,77,64
+1912,Melissa,Mendoza,melissa.mendoza.1912@gslingacademy.com,female,False,2,False,28,Software Engineer,95,82,100,60,77,95,80
+33,Timothy,Bryant,timothy.bryant.33@gslingacademy.com,male,False,4,False,30,Accountant,77,96,98,89,85,62,62
+1538,Kaitlyn,Frazier,kaitlyn.frazier.1538@gslingacademy.com,female,False,3,False,10,Government Officer,93,68,61,78,80,65,77
+1034,Joseph,Petersen,joseph.petersen.1034@gslingacademy.com,male,False,3,True,21,Unknown,89,100,89,65,91,83,61
+1563,Brian,Adams,brian.adams.1563@gslingacademy.com,male,False,5,True,3,Business Owner,56,67,87,97,88,57,86
+352,Tammy,Barry,tammy.barry.352@gslingacademy.com,female,False,1,False,5,Game Developer,97,76,91,76,89,60,85
+164,Nicholas,Clayton,nicholas.clayton.164@gslingacademy.com,male,False,1,True,44,Doctor,86,100,100,96,95,97,93
+204,Christina,Davis,christina.davis.204@gslingacademy.com,female,False,1,True,21,Accountant,100,87,60,92,46,67,96
+1054,Anne,Johnston,anne.johnston.1054@gslingacademy.com,female,False,1,False,18,Banker,75,66,61,69,68,96,63
+1365,Joseph,Blake,joseph.blake.1365@gslingacademy.com,male,False,4,False,29,Doctor,86,71,86,93,99,92,77
+1967,Paul,Bailey,paul.bailey.1967@gslingacademy.com,male,True,4,False,5,Business Owner,82,69,92,85,59,87,83
+496,Stephen,Gallagher,stephen.gallagher.496@gslingacademy.com,male,False,1,False,33,Lawyer,95,82,62,76,64,91,79
+1625,Christopher,Fleming,christopher.fleming.1625@gslingacademy.com,male,True,7,False,29,Accountant,93,64,86,82,35,73,84
+1966,Jennifer,Leblanc,jennifer.leblanc.1966@gslingacademy.com,female,False,6,False,2,Business Owner,67,54,71,50,55,51,66
+1963,Michael,Parker,michael.parker.1963@gslingacademy.com,male,False,3,False,43,Doctor,88,98,94,96,96,89,92
+611,Courtney,Patterson,courtney.patterson.611@gslingacademy.com,female,False,0,False,4,Stock Investor,86,82,90,69,66,93,94
+433,Patrick,Ryan,patrick.ryan.433@gslingacademy.com,male,False,9,False,4,Business Owner,48,55,86,51,54,94,61
+1492,Rachel,Salas,rachel.salas.1492@gslingacademy.com,female,True,8,True,4,Business Owner,92,96,80,98,61,84,74
+219,Theresa,Tucker,theresa.tucker.219@gslingacademy.com,female,True,1,False,27,Unknown,66,71,94,72,96,70,63
+1931,James,Hudson,james.hudson.1931@gslingacademy.com,male,False,2,False,5,Unknown,81,91,85,64,82,90,94
+1466,Jacob,Hall,jacob.hall.1466@gslingacademy.com,male,False,3,False,20,Software Engineer,97,93,67,85,90,72,96
+631,Melinda,Freeman,melinda.freeman.631@gslingacademy.com,female,False,3,True,31,Banker,90,80,84,70,65,89,64
+1382,Robin,Carr,robin.carr.1382@gslingacademy.com,female,False,2,False,32,Scientist,81,64,81,92,87,84,95
+1302,Christopher,Lopez,christopher.lopez.1302@gslingacademy.com,male,False,2,False,13,Construction Engineer,97,65,96,92,91,66,74
+60,Casey,May,casey.may.60@gslingacademy.com,male,False,4,False,23,Software Engineer,89,99,90,79,85,96,98
+299,Sarah,Oconnor,sarah.oconnor.299@gslingacademy.com,female,False,1,False,2,Unknown,81,92,94,77,84,63,64
+1711,Justin,Johnson,justin.johnson.1711@gslingacademy.com,male,False,4,False,3,Game Developer,80,61,96,89,96,61,80
+74,Michael,Hodge,michael.hodge.74@gslingacademy.com,male,True,8,False,3,Business Owner,51,54,66,87,99,58,68
+163,Troy,Shepherd,troy.shepherd.163@gslingacademy.com,male,False,4,False,33,Construction Engineer,86,88,99,79,93,97,91
+1275,Shawn,Cameron,shawn.cameron.1275@gslingacademy.com,male,True,10,False,3,Business Owner,41,99,84,63,92,72,81
+1594,Kelsey,Alexander,kelsey.alexander.1594@gslingacademy.com,female,True,6,False,0,Business Owner,83,50,59,77,66,87,60
+1434,Calvin,Taylor,calvin.taylor.1434@gslingacademy.com,male,False,3,False,14,Banker,76,97,99,83,74,94,99
+1613,Laura,Sanders,laura.sanders.1613@gslingacademy.com,female,False,1,False,33,Lawyer,100,82,85,68,97,81,100
+592,David,Brown,david.brown.592@gslingacademy.com,male,True,4,False,2,Unknown,80,62,84,95,71,85,87
+317,Nancy,Jones,nancy.jones.317@gslingacademy.com,female,True,0,False,22,Unknown,63,60,92,88,90,68,100
+46,Kenneth,Davis,kenneth.davis.46@gslingacademy.com,male,True,5,True,5,Business Owner,88,53,50,58,84,53,96
+1720,Joshua,Dillon,joshua.dillon.1720@gslingacademy.com,male,False,5,False,46,Doctor,100,97,94,87,89,91,100
+1832,Hailey,Arroyo,hailey.arroyo.1832@gslingacademy.com,female,False,1,True,3,Real Estate Developer,75,64,98,65,88,65,71
+428,Jill,Sexton,jill.sexton.428@gslingacademy.com,female,False,1,True,0,Artist,71,84,66,75,93,84,69
+582,Jessica,Hutchinson,jessica.hutchinson.582@gslingacademy.com,female,False,2,False,31,Banker,89,91,85,69,76,92,94
+77,Jennifer,Garcia,jennifer.garcia.77@gslingacademy.com,female,False,3,False,24,Software Engineer,87,63,60,90,89,99,80
+1917,Rebecca,Castillo,rebecca.castillo.1917@gslingacademy.com,female,False,1,True,22,Writer,72,100,78,100,98,92,97
+1415,Christina,Ramirez,christina.ramirez.1415@gslingacademy.com,female,False,10,True,3,Business Owner,58,65,72,98,56,59,81
+781,Julia,Richmond,julia.richmond.781@gslingacademy.com,female,False,8,False,2,Business Owner,71,69,95,83,90,93,89
+1920,Kyle,Novak,kyle.novak.1920@gslingacademy.com,male,False,1,False,35,Lawyer,100,87,85,90,92,99,94
+1174,Rebecca,Khan,rebecca.khan.1174@gslingacademy.com,female,False,6,False,9,Government Officer,92,93,86,61,78,80,62
+1320,Robin,Leonard,robin.leonard.1320@gslingacademy.com,female,False,5,False,14,Banker,99,72,74,88,90,81,95
+938,William,Kelly,william.kelly.938@gslingacademy.com,male,False,1,False,30,Software Engineer,91,90,88,92,75,98,91
+31,Angie,Miller,angie.miller.31@gslingacademy.com,female,False,0,False,14,Software Engineer,88,69,87,100,88,85,72
+1092,John,Wilson,john.wilson.1092@gslingacademy.com,male,False,10,False,5,Business Owner,75,52,84,70,81,99,85
+1616,Bobby,Miller,bobby.miller.1616@gslingacademy.com,male,False,0,True,14,Banker,81,99,85,72,67,78,69
+1230,Justin,Brooks,justin.brooks.1230@gslingacademy.com,male,False,7,False,3,Unknown,93,74,98,100,62,83,87
+975,Melissa,Gonzales,melissa.gonzales.975@gslingacademy.com,female,True,2,False,0,Artist,100,95,60,89,77,89,67
+1085,Trevor,Stark,trevor.stark.1085@gslingacademy.com,male,True,3,False,31,Lawyer,86,92,66,66,100,99,91
+515,Andrew,Best,andrew.best.515@gslingacademy.com,male,True,4,False,28,Construction Engineer,83,79,92,69,85,71,95
+1551,Cassandra,Mills,cassandra.mills.1551@gslingacademy.com,female,False,5,False,35,Banker,89,86,96,92,97,89,95
+1568,Crystal,Holland,crystal.holland.1568@gslingacademy.com,female,True,4,False,0,Business Owner,49,51,57,80,89,53,76
+1811,Christopher,Gutierrez,christopher.gutierrez.1811@gslingacademy.com,male,False,2,False,24,Software Engineer,90,76,100,73,90,64,86
+1574,Paula,Hernandez,paula.hernandez.1574@gslingacademy.com,female,True,2,False,48,Doctor,96,97,98,98,97,96,89
+45,David,Gillespie,david.gillespie.45@gslingacademy.com,male,True,4,False,3,Business Owner,54,99,79,57,53,95,83
+1687,Tammy,Morris,tammy.morris.1687@gslingacademy.com,female,False,3,False,25,Banker,94,76,100,60,80,94,61
+169,Fernando,Sexton,fernando.sexton.169@gslingacademy.com,male,False,1,False,9,Unknown,97,96,66,96,71,97,66
+304,Amanda,Davis,amanda.davis.304@gslingacademy.com,female,False,1,True,12,Government Officer,65,69,66,65,90,76,60
+991,Victoria,Garcia,victoria.garcia.991@gslingacademy.com,female,False,1,True,14,Unknown,66,68,87,70,77,76,89
+556,Justin,Douglas,justin.douglas.556@gslingacademy.com,male,False,2,False,35,Unknown,96,92,98,100,94,93,86
+1925,Jeremy,Tran,jeremy.tran.1925@gslingacademy.com,male,False,1,False,35,Construction Engineer,98,85,100,94,93,92,94
+608,Samantha,Alvarado,samantha.alvarado.608@gslingacademy.com,female,True,4,False,16,Accountant,82,79,64,75,93,82,60
+1619,Justin,Kim,justin.kim.1619@gslingacademy.com,male,False,5,True,3,Real Estate Developer,68,91,78,63,90,95,80
+758,Ian,Scott,ian.scott.758@gslingacademy.com,male,False,2,False,21,Banker,94,74,74,89,67,93,96
+439,Andrew,Green,andrew.green.439@gslingacademy.com,male,False,3,False,24,Doctor,80,60,100,99,98,75,94
+583,Tyler,Carrillo,tyler.carrillo.583@gslingacademy.com,male,False,3,False,6,Real Estate Developer,59,88,74,92,72,97,64
+1519,Andrew,Stanley,andrew.stanley.1519@gslingacademy.com,male,False,2,True,25,Accountant,93,74,96,69,71,82,76
+528,Deborah,Rojas,deborah.rojas.528@gslingacademy.com,female,False,3,True,1,Business Owner,50,55,96,72,55,50,64
+343,Wayne,Lane,wayne.lane.343@gslingacademy.com,male,False,8,True,32,Lawyer,96,95,61,72,71,83,96
+1737,Shane,Lopez,shane.lopez.1737@gslingacademy.com,male,False,1,False,29,Lawyer,78,80,72,65,90,99,95
+368,Sheila,Sosa,sheila.sosa.368@gslingacademy.com,female,False,2,False,30,Unknown,61,70,89,97,60,79,79
+186,Jenny,Lloyd,jenny.lloyd.186@gslingacademy.com,female,False,3,False,2,Artist,69,78,69,70,100,88,85
+1117,Samantha,Phillips,samantha.phillips.1117@gslingacademy.com,female,True,10,False,1,Business Owner,87,58,85,82,100,87,91
+1755,Amanda,Cox,amanda.cox.1755@gslingacademy.com,female,False,3,False,35,Scientist,95,97,89,97,99,85,92
+1426,Patricia,Garrison,patricia.garrison.1426@gslingacademy.com,female,False,2,True,19,Software Engineer,90,73,71,68,74,87,66
+301,Terry,Chen,terry.chen.301@gslingacademy.com,male,False,1,True,11,Stock Investor,76,82,70,72,78,60,81
+1904,Luke,Hernandez,luke.hernandez.1904@gslingacademy.com,male,False,1,True,3,Game Developer,80,79,94,74,83,83,61
+833,Brittany,Collier,brittany.collier.833@gslingacademy.com,female,False,10,False,11,Government Officer,73,97,87,93,78,99,86
+544,Kathryn,Hampton,kathryn.hampton.544@gslingacademy.com,female,False,9,False,3,Business Owner,94,92,63,84,79,66,96
+1601,Joseph,Patterson,joseph.patterson.1601@gslingacademy.com,male,False,1,True,26,Designer,82,98,78,63,83,91,94
+351,Aimee,Adams,aimee.adams.351@gslingacademy.com,female,False,3,False,15,Teacher,76,64,64,60,75,92,61
+1933,Tracy,Martinez,tracy.martinez.1933@gslingacademy.com,female,False,2,True,8,Teacher,68,95,76,97,91,78,71
+1511,Jennifer,Fuentes,jennifer.fuentes.1511@gslingacademy.com,female,True,2,False,11,Stock Investor,89,65,82,77,90,76,84
+979,Gregory,Schaefer,gregory.schaefer.979@gslingacademy.com,male,False,2,False,26,Software Engineer,93,95,80,88,83,62,65
+176,Jeremy,Barnes,jeremy.barnes.176@gslingacademy.com,male,False,2,False,20,Unknown,68,100,89,75,84,78,90
+483,Anthony,Mullins,anthony.mullins.483@gslingacademy.com,male,False,5,True,3,Artist,97,88,67,72,83,87,62
+1413,William,Ryan,william.ryan.1413@gslingacademy.com,male,False,2,False,34,Software Engineer,93,65,81,94,92,60,100
+1611,Heidi,Johnson,heidi.johnson.1611@gslingacademy.com,female,False,6,False,3,Game Developer,99,66,81,69,82,73,72
+124,Wendy,Lewis,wendy.lewis.124@gslingacademy.com,female,False,3,False,47,Doctor,96,100,96,91,91,96,89
+600,Lindsay,Morales,lindsay.morales.600@gslingacademy.com,female,False,1,False,23,Doctor,96,91,97,84,89,82,75
+1795,Casey,Hall,casey.hall.1795@gslingacademy.com,female,False,1,False,5,Designer,75,88,63,64,84,74,72
+1746,David,Ochoa,david.ochoa.1746@gslingacademy.com,male,False,1,False,18,Software Engineer,94,66,84,92,71,81,99
+1379,Hector,Garcia,hector.garcia.1379@gslingacademy.com,male,False,5,False,27,Unknown,61,85,92,62,64,66,95
+1186,Nancy,Fowler,nancy.fowler.1186@gslingacademy.com,female,False,3,True,11,Unknown,86,66,84,86,74,91,66
+486,Selena,Castro,selena.castro.486@gslingacademy.com,female,True,5,False,2,Business Owner,56,96,65,61,78,77,95
+332,Carla,Lewis,carla.lewis.332@gslingacademy.com,female,False,1,False,13,Designer,90,72,78,61,78,88,74
+789,Brittney,Moon,brittney.moon.789@gslingacademy.com,female,False,5,False,10,Teacher,91,63,78,93,76,76,90
+195,Angelica,Johnson,angelica.johnson.195@gslingacademy.com,female,False,2,False,30,Scientist,85,64,93,80,82,70,94
+638,Alexander,Burnett,alexander.burnett.638@gslingacademy.com,male,False,5,False,2,Artist,98,99,64,88,72,87,99
+472,Stephanie,Clark,stephanie.clark.472@gslingacademy.com,female,False,7,False,7,Real Estate Developer,97,93,99,98,96,79,88
+1714,Jon,Mendoza,jon.mendoza.1714@gslingacademy.com,male,False,2,False,32,Lawyer,95,95,92,61,63,81,100
+323,Andrea,Walters,andrea.walters.323@gslingacademy.com,female,True,5,False,25,Unknown,86,76,81,83,81,70,65
+1197,Rick,Garcia,rick.garcia.1197@gslingacademy.com,male,False,1,True,12,Construction Engineer,94,65,90,79,97,76,75
+267,Patricia,Gonzalez,patricia.gonzalez.267@gslingacademy.com,female,False,3,True,15,Banker,100,86,74,96,80,99,76
+1544,Steve,Kelly,steve.kelly.1544@gslingacademy.com,male,False,4,False,12,Stock Investor,100,67,100,60,94,72,70
+1804,Brian,Kelly,brian.kelly.1804@gslingacademy.com,male,False,1,False,37,Doctor,98,87,96,89,100,85,91
+68,Steven,Stephens,steven.stephens.68@gslingacademy.com,male,False,2,False,8,Real Estate Developer,64,64,73,76,72,97,91
+1738,Eric,Obrien,eric.obrien.1738@gslingacademy.com,male,False,3,False,26,Lawyer,71,92,92,96,81,81,85
+1593,Derrick,Tucker,derrick.tucker.1593@gslingacademy.com,male,False,2,False,21,Banker,100,77,90,83,88,91,80
+1564,Michael,James,michael.james.1564@gslingacademy.com,male,False,7,False,25,Software Engineer,89,63,88,73,78,84,74
+481,Janet,Martin,janet.martin.481@gslingacademy.com,female,True,7,False,2,Business Owner,79,54,81,87,67,74,85
+1757,Sydney,Wood,sydney.wood.1757@gslingacademy.com,female,False,2,False,27,Lawyer,76,100,94,81,60,85,73
+1913,Bethany,Thomas,bethany.thomas.1913@gslingacademy.com,female,True,10,False,3,Business Owner,55,92,59,78,61,83,60
+1441,Jeremy,Cook,jeremy.cook.1441@gslingacademy.com,male,False,2,True,27,Lawyer,83,89,95,70,95,80,70
+1461,Ruth,Miller,ruth.miller.1461@gslingacademy.com,female,False,1,False,13,Government Officer,74,76,81,69,98,96,65
+888,Christopher,Ramirez,christopher.ramirez.888@gslingacademy.com,male,True,3,False,21,Unknown,95,91,63,83,75,73,74
+423,Jasmine,Clark,jasmine.clark.423@gslingacademy.com,female,False,4,False,15,Accountant,79,79,97,78,31,99,84
+1675,Christopher,Evans,christopher.evans.1675@gslingacademy.com,male,False,5,False,26,Lawyer,77,86,62,85,72,98,90
+1450,Jonathan,Mckay,jonathan.mckay.1450@gslingacademy.com,male,False,10,False,1,Business Owner,90,50,84,90,83,62,100
+765,Teresa,Lee,teresa.lee.765@gslingacademy.com,female,False,5,False,33,Software Engineer,87,98,97,70,80,67,82
+520,Melinda,Payne,melinda.payne.520@gslingacademy.com,female,False,2,False,11,Teacher,95,69,91,97,89,84,66
+1432,Angela,Elliott,angela.elliott.1432@gslingacademy.com,female,True,2,False,35,Software Engineer,96,91,95,88,89,85,92
+614,Elizabeth,Chavez,elizabeth.chavez.614@gslingacademy.com,female,False,7,False,4,Business Owner,72,99,61,67,95,98,89
+1531,Eduardo,Brown,eduardo.brown.1531@gslingacademy.com,male,False,0,False,48,Doctor,99,89,96,98,89,98,93
+1783,Kimberly,Knox,kimberly.knox.1783@gslingacademy.com,female,True,3,False,43,Doctor,86,99,87,88,99,89,86
+1659,Eric,Ross,eric.ross.1659@gslingacademy.com,male,True,0,False,12,Unknown,78,70,90,68,90,87,77
+454,Joseph,Schmidt,joseph.schmidt.454@gslingacademy.com,male,False,1,False,25,Stock Investor,76,94,90,75,92,86,87
+731,Justin,Hughes,justin.hughes.731@gslingacademy.com,male,False,2,True,25,Stock Investor,97,65,96,87,87,95,100
+535,Thomas,Clark,thomas.clark.535@gslingacademy.com,male,False,10,True,0,Business Owner,56,79,74,66,92,57,61
+966,Ashley,Green,ashley.green.966@gslingacademy.com,female,False,4,False,14,Accountant,94,82,80,80,33,93,78
+1285,Stephanie,Rodriguez,stephanie.rodriguez.1285@gslingacademy.com,female,False,2,False,15,Banker,92,65,88,78,67,95,96
+1740,Thomas,Ward,thomas.ward.1740@gslingacademy.com,male,False,3,False,35,Software Engineer,88,92,88,100,89,94,87
+262,Christopher,Cruz,christopher.cruz.262@gslingacademy.com,male,False,4,False,2,Artist,76,93,65,95,76,88,88
+536,Gregory,Gonzalez,gregory.gonzalez.536@gslingacademy.com,male,False,4,False,5,Game Developer,87,70,98,64,65,78,83
