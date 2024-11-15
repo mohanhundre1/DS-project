@@ -5,7 +5,7 @@ from src.mlproject.components.data_ingestion import DataIngestion
 from src.mlproject.components.data_ingestion import DataIngestionConfig
 
 
-
+#initialise main calls.
 if __name__=="__main__":
     logging.info("The execution has started")
 
